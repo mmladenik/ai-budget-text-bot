@@ -36,10 +36,10 @@ Remaining: $355
 ## Policies
 
 Privacy Policy  
-https://YOURUSERNAME.github.io/REPOSITORYNAME/
+https://mmladenik.github.io/ai-budget-text-bot/privacy-policy.html
 
 Terms and Conditions  
-https://YOURUSERNAME.github.io/REPOSITORYNAME/terms.html
+https://mmladenik.github.io/ai-budget-text-bot/terms-and-conditions.html
 
 ## Contact
 
